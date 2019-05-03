@@ -1,4 +1,4 @@
-individual,site_type,sex,flu_shot,age,has_fever,has_cough,has_myalgia,residence_census_tract,residence_cra_name,residence_neighborhood_district_name,residence_puma5ce,pathogen,encountered_date,encountered_week,encounter
+individual,site_type,sex,flu_shot,age,has_fever,has_cough,has_myalgia,residence_census_tract,residence_cra_name,residence_neighborhood_district_name,residence_puma,pathogen,encountered_date,encountered_week,encounter
 DBCCBGC_1042,hospital,male,TRUE,29,TRUE,TRUE,FALSE,53033005200,Wallingford,Lake Union,11602,h1n1pdm,11/22/2018,2018-W47,OGWYI2950O
 DAECABB_1248,hospital,male,FALSE,63,TRUE,FALSE,TRUE,53033003600,Green Lake,Northwest,11601,h1n1pdm,11/26/2018,2018-W48,WHVAQ3798M
 DGBADBG_1555,hospital,male,FALSE,4,TRUE,FALSE,FALSE,53033009100,Pioneer Square/International District,Downtown,11603,h1n1pdm,12/3/2018,2018-W49,LYIVQ7295E
